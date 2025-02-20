@@ -1,7 +1,8 @@
 # Java
 
 Welcome to the **Java** repository! 
-This repository serves as a collection of Java basics to build a strong foundation for **Selenium automation testing** and further Java-based projects.
+
+This repository is a collection of Java basics to build a strong foundation for **Selenium automation testing** and further Java-based projects.
 
 ## Repository Overview
 
@@ -31,10 +32,4 @@ This repository includes:
    javac filename.java
    java ClassName
    ```
-
-## Contributing
-Feel free to suggest improvements, report issues, or add valuable content by opening a pull request!
-
----
-
 ### Happy Coding :)
