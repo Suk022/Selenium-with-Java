@@ -32,4 +32,3 @@ This repository includes:
    javac filename.java
    java ClassName
    ```
-### Happy Coding :)
