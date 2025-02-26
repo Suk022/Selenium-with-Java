@@ -13,5 +13,5 @@ This repo tracks my progress in the **Selenium with Java** automation testing co
 - **Maven**
 - **ChromeDriver/GeckoDriver**
 
-Stay frosty! 
+## Thanks
 
