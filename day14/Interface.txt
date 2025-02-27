@@ -1,0 +1,1 @@
+Multiple Inheritance cant be achieved by simple extending multiple Parent Classes to a child Classes, we use `interface` to achieve this multiple Inheritance.
