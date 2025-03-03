@@ -1,0 +1,8 @@
+OOPS 
+----
+Class
+object 
+Polymorphism - method overloading
+Encapsulation - getter & setter methods
+Inheritance - method overriding
+Data Absraction - interface, abstract class
