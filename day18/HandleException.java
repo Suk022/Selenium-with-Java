@@ -1,0 +1,23 @@
+package day18;
+
+import java.util.Scanner;
+
+public class HandleException {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("program started.");
+        System.out.println("enter a number..");
+        int num = sc.nextInt();
+        try {
+            System.out.println("divinding 100 by num: "+ 100/num);
+        }
+        catch (ArithmeticException e) {
+            System.out.println("exception occured: "+e);
+        }
+        
+        System.out.println("program is completed...");
+        System.out.println("program terminated.");
+        sc.close();
+    }
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
